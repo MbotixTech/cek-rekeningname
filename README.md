@@ -1,4 +1,4 @@
-# <a href="https://check-name.onrender.com/">Cek Rekening Python Version with Flask
+# Cek Rekening Python Flask Version
 
 Source Code at [pilarxyz](https://github.com/pilarxyz/cek-rekening). This code uses the Python flask version and adds send info to telegram
 <p align="center">
